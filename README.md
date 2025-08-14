@@ -25,7 +25,14 @@ A web-based application to **upload, organize, share, and manage files** with fo
   Built with **React** and Tailwind CSS.
 
 ---
+##  ScreenShots
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b2ce1999-bf86-415c-874b-1f77c5a966cd" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/0d484141-e0fa-4c55-9122-0443fb2eabca" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/bf7b6c17-6dcc-4e29-a66b-f8638b311941" />
+<img width="1914" height="930" alt="image" src="https://github.com/user-attachments/assets/cbac3627-473e-4190-ba51-4eb5db6f45ab" />
 
+
+---
 ##  Tech Stack
 
 - **Frontend:** React, Tailwind CSS  
