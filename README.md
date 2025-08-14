@@ -56,6 +56,7 @@ nodemon  src/server.js
 ### **frontend**
 ```bash
 cd frontend
+cd vite-project
 npm install
 npm run dev
 ```
