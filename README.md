@@ -10,7 +10,7 @@ A web-based application to **upload, organize, share, and manage files** with fo
   Upload multiple files at once. Files can be uploaded into specific folders or the Root folder by default.
 
 - **Folder Management**  
-  Create, rename, and delete folders dynamically.
+  Create and delete folders dynamically.
 
 - **File Management**  
   - Download files  
@@ -43,11 +43,19 @@ A web-based application to **upload, organize, share, and manage files** with fo
 ```bash
 git clone https://github.com/Sinchana258/Cloud-file-storage-and-sharing-system.git
 cd Cloud-file-storage-and-sharing-system
+
+```
+### **backend**
+```bash
 cd backend
 npm install
 cp .env.example .env
 # Update your AWS, MongoDB, and BASE_URL configs in .env
-npm run dev
+nodemon  src/server.js
+```
+### **frontend**
+```bash
 cd frontend
 npm install
-npm start
+npm run dev
+```
